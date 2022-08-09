@@ -2,6 +2,12 @@
 This project implements a classifier and compares it against other classification methods.
 
 ## Functionality
+1. Preprocessing stage: Identified the mode of the column and filled in missing values
+2. Carried out data discretisation, replacement of numerical data with number of intervals-consecutive positive integers and data binning
+3. Generation of Mining Class Association rules: The rule generator implemented is similar to the one as the Apriori algorithm 
+4. All rules generated satisfy the minimum support and minimum confidence of 0.01 and 0.5 respectively 
+5. Classifier: Implemented an improved version of a classifier based on the classifier from the ‘Bing Liu, Wynne Hsu, Yiming Ma: Integrating Classification and Association Rule Mining. KDD 1998: 80-86’ paper
+6. Evaluation: Compared against the original classifier from the paper and other classification methods implemented like Decision trees (with pruning and without pruning), Random Forest, SVM and Logistic Regression (liblinear and saga) 
 
 ## Documentation 
 All documents can be found under the [Documentation](https://github.com/nikita-bachhas/Implementing-an-Algorithm-of-Classification-based-on-Mining-Class-Association-Rules/tree/main/Documentation) folder
