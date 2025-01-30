@@ -12,7 +12,6 @@ This project implements a classifier and compares it against other classificatio
 ## Documentation 
 All documents can be found under the [Documentation](https://github.com/nikita-bachhas/Implementing-an-Algorithm-of-Classification-based-on-Mining-Class-Association-Rules/tree/main/Documentation) folder
 1. Detailed report of the project: [Report.pdf](https://github.com/nikita-bachhas/Implementing-an-Algorithm-of-Classification-based-on-Mining-Class-Association-Rules/blob/main/Documentation/Report.pdf)
-2. Project Video: [CZ4032 Project 1 Video](https://www.canva.com/design/DAEtXU88tU0/rhnEjfku-NV2Q8J_FagjLA/watch?utm_content=DAEtXU88tU0&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 ## Datasets 
 All datasets can be found under the [Datasets](https://github.com/nikita-bachhas/Implementing-an-Algorithm-of-Classification-based-on-Mining-Class-Association-Rules/tree/main/Datasets) folder
